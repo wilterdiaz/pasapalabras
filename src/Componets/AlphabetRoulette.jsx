@@ -37,8 +37,9 @@ function AlphabetRoulette() {
             {letter}
           </div>
         ))}
+        {/* Texto "Pasapalabras" centrado en el círculo */}
+        <div className="center-text">Pasapalabras</div>
       </div>
-      <button onClick={resetRoulette}>Reiniciar</button>
     </div>
   );
 }

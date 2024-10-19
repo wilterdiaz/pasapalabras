@@ -5,7 +5,6 @@ import AlphabetRoulette from './Componets/AlphabetRoulette';
 function App() {
   return (
     <div className="App">
-    <h1>Pasapalabras</h1>
     <AlphabetRoulette />
   </div>
   );
