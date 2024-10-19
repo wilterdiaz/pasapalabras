@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pasapalabras/static/css/main.c5000b2d.css",
-    "main.js": "/pasapalabras/static/js/main.c2278d46.js",
+    "main.css": "/pasapalabras/static/css/main.71e4123d.css",
+    "main.js": "/pasapalabras/static/js/main.3831e2fb.js",
     "static/js/453.14e9f463.chunk.js": "/pasapalabras/static/js/453.14e9f463.chunk.js",
     "static/media/logo.svg": "/pasapalabras/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pasapalabras/index.html",
-    "main.c5000b2d.css.map": "/pasapalabras/static/css/main.c5000b2d.css.map",
-    "main.c2278d46.js.map": "/pasapalabras/static/js/main.c2278d46.js.map",
+    "main.71e4123d.css.map": "/pasapalabras/static/css/main.71e4123d.css.map",
+    "main.3831e2fb.js.map": "/pasapalabras/static/js/main.3831e2fb.js.map",
     "453.14e9f463.chunk.js.map": "/pasapalabras/static/js/453.14e9f463.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5000b2d.css",
-    "static/js/main.c2278d46.js"
+    "static/css/main.71e4123d.css",
+    "static/js/main.3831e2fb.js"
   ]
 }
